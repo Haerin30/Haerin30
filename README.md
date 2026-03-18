@@ -1,5 +1,7 @@
 ## Hi there 👋
 Ambatukamm
+
+![My GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXR1aTBkdGpqcjcyMDZueHA5ODN4YW9ycnY4dXU1dHN0eDRnZWtteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)
 <!--
 **Haerin30/Haerin30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
