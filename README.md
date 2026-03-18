@@ -13,7 +13,7 @@
 
 
 <p align="center"> 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXR1aTBkdGpqcjcyMDZueHA5ODN4YW9ycnY4dXU1dHN0eDRnZWtteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="700">
+<img src="https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe" width="700">
 </p>
 
 
