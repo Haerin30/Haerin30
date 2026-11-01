@@ -20,36 +20,6 @@
 
 ******
 
-<!-- Container for alignment -->
-<div align="center">
-  <h3>My Tech Stack Hotbar</h3>
-  
-  <!-- Outer Hotbar simulation using a table or raw row mapping -->
-  <table>
-    <tr>
-      <!-- Slot 1 -->
-      <td width="60" height="60" align="center" valign="middle" style="background: #8b8b8b; border: 4px solid #373737; box-shadow: inset -4px -4px #555555, inset 4px 4px #dbdbdb;">
-        <img src="https://skillicons.dev" width="40" alt="JavaScript" />
-      </td>
-      <!-- Slot 2 -->
-      <td width="60" height="60" align="center" valign="middle" style="background: #8b8b8b; border: 4px solid #373737; box-shadow: inset -4px -4px #555555, inset 4px 4px #dbdbdb;">
-        <img src="https://skillicons.dev" width="40" alt="React" />
-      </td>
-      <!-- Slot 3 -->
-      <td width="60" height="60" align="center" valign="middle" style="background: #8b8b8b; border: 4px solid #373737; box-shadow: inset -4px -4px #555555, inset 4px 4px #dbdbdb;">
-        <img src="https://skillicons.dev" width="40" alt="Python" />
-      </td>
-      <!-- Slot 4 (Selected Slot Active Border) -->
-      <td width="60" height="60" align="center" valign="middle" style="background: #8b8b8b; border: 4px solid #ffffff; box-shadow: inset -4px -4px #a1a1a1, inset 4px 4px #ffffff;">
-        <img src="https://skillicons.dev" width="40" alt="Git" />
-      </td>
-      <!-- Slot 5 -->
-      <td width="60" height="60" align="center" valign="middle" style="background: #8b8b8b; border: 4px solid #373737; box-shadow: inset -4px -4px #555555, inset 4px 4px #dbdbdb;">
-        <img src="https://skillicons.dev" width="40" alt="Docker" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 <!--
